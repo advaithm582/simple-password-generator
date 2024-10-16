@@ -1,3 +1,11 @@
+> ⚠️ WARNING: This project is now deprecated.
+>
+> This project was originally made for me to have a rudimentary understanding of Git and Python. Code patterns
+> and algortihms followed here might neither be the most efficient nor secure.
+>  Please don't use this project for any purpose other than analyzing the code.
+
+
+
 # Simple Password Generator
 A simple password generator, written in Python
 ## How to use the tool
